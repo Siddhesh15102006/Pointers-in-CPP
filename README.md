@@ -1,6 +1,5 @@
 ---
 # 🧪 Experiment 9 :- Pointer basics
----
 📘 README: Programming Experiment – Pointers in C
 
 ---
